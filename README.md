@@ -1,0 +1,2 @@
+# .github
+CommunityPro support repository
