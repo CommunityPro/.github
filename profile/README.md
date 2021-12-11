@@ -10,7 +10,7 @@
 
 
 ## 🦮 Contribution guidelines
-If you want to be a contributor at Communitypro, we don't require much. Just be a human who loves and undertsand one another, a veteran or someone who wants to learn what open source is all about, a huge fan of Spiderman and all the DC series put together, loves to code and drink lots of water, haven't finished a Udemy course before... Sorry, I got carried away for a minute 😂 Read our guidelines <a href="#">here</a>
+If you want to be a contributor at Communitypro, we don't require much. Just be a human who loves and undertsand one another, a veteran or someone who wants to learn what open source is all about, a huge fan of Spiderman and all the DC series put together, loves to code and drink lots of water, haven't finished a Udemy course before... Sorry, I got carried away for a minute 😂 Read our guidelines <a href="https://github.com/CommunityPro/support/blob/main/CONTRIBUTING.md">here</a>
 
 ## 🧸 Fun facts
 It took over 3 weeks, 10 gallons of midnight oil 🪔 and and an endless loop of google search to come up with the name "Communitypro" 😪
