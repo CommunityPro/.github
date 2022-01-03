@@ -17,3 +17,5 @@ It took over 3 weeks, 10 gallons of midnight oil 🪔 and and an endless loop of
 
 ## 📚 Useful resources 
 You can find helpful articles, readmes and videos to help you get started with open source and CommunityPro <a href="#">here</a>
+
+<a href="https://github.com/CommunityPro/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Community+Organization" target="_blank"><img src="https://user-images.githubusercontent.com/62628408/147912042-4388b29f-70d1-4928-a336-c9ea3cd991e6.png" alt="communitypro welcome image"></a>
