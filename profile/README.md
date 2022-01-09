@@ -1,6 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/62628408/145671658-ba41c757-7bfe-41d5-a855-af49f87de08f.gif" width="100%"></p>
 
 <h1>Communitypro</h1>
+<a href="https://discord.gg/kn5sG8hqqc"><img src="https://img.shields.io/discord/928604510941745173?label=Discord&logo=discord&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/company/communitypro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </br>
 <p align="left">CommunityPro which stands for community project is a community of developers combining ideas to build open source projects and solutions. We believe developers learn more by teaching and building, which is the heart of this community and the reason we exist; To enhance the abilities of developers through teaching other developers and building open source projects with the knowledge</p>
